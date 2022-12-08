@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ferryawanardiansyah/static/css/main.d06c48bc.css",
+    "main.js": "/ferryawanardiansyah/static/js/main.e74dca50.js",
+    "static/media/pj2.png": "/ferryawanardiansyah/static/media/pj2.7017672bbb37bd8c13a9.png",
+    "static/media/pj5.png": "/ferryawanardiansyah/static/media/pj5.d959d3896937a5faf448.png",
+    "static/media/pj6.png": "/ferryawanardiansyah/static/media/pj6.bddc66ad34f3fb545fee.png",
+    "static/media/pj3.png": "/ferryawanardiansyah/static/media/pj3.26cd3d5bde13e1c9ed84.png",
+    "static/media/pj1.png": "/ferryawanardiansyah/static/media/pj1.0c76422644538437cf92.png",
+    "static/media/pj4.png": "/ferryawanardiansyah/static/media/pj4.d041b0481a4058bb372c.png",
+    "static/media/ferry.png": "/ferryawanardiansyah/static/media/ferry.a2ce2b5213f85ca169d8.png",
+    "static/media/img-Fer.png": "/ferryawanardiansyah/static/media/img-Fer.e58b778f77a059db3e62.png",
+    "static/media/bg-benarr.jpg": "/ferryawanardiansyah/static/media/bg-benarr.8d1e537d9de536130e1e.jpg",
+    "static/media/services.svg": "/ferryawanardiansyah/static/media/services.2d6c88f25842315ca095.svg",
+    "static/media/portfolio.svg": "/ferryawanardiansyah/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/contact.svg": "/ferryawanardiansyah/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/about.svg": "/ferryawanardiansyah/static/media/about.70a8290c961c47c208b5.svg",
+    "index.html": "/ferryawanardiansyah/index.html",
+    "main.d06c48bc.css.map": "/ferryawanardiansyah/static/css/main.d06c48bc.css.map",
+    "main.e74dca50.js.map": "/ferryawanardiansyah/static/js/main.e74dca50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d06c48bc.css",
+    "static/js/main.e74dca50.js"
+  ]
+}
